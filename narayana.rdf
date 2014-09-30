@@ -92,6 +92,20 @@
       </foaf:Person>
     </developer>
     <category>Transactions</category>
+    <release>
+      <Version>
+        <name>Narayana 5.0.2.Final</name>
+        <revision>5.0.2.Final</revision>
+        <created>2014-06-02</created>
+      </Version>
+    </release>
+    <release>
+      <Version>
+        <name>JBossTS 4.17.7.Final</name>
+        <revision>4.17.7.Final</revision>
+        <created>2014-07-19</created>
+      </Version>
+    </release>
     <license rdf:resource="" />
     <repository>
       <GitRepository>
