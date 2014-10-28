@@ -6,6 +6,7 @@
     <shortdesc>Narayana is the premier open source transaction manager.</shortdesc>
     <description>With over 20 years of expertise in the area of transaction processing, Narayana is the premier open source transaction manager. It has been used extensively within industry and to drive standards including the OMG and Web Services.</description>
     <mailing-list rdf:resource="http://narayana.jboss.org/lists" />
+    <foaf:weblog rdf:resource="http://jbossts.blogspot.co.uk/"/>
     <maintainer>
       <foaf:Person>
         <foaf:name>Tom Jenkinson</foaf:name>
@@ -94,9 +95,16 @@
     
     <release>
       <Version>
-        <name></name>
+        
         <revision>5.0.2.Final</revision>
         <created>2014-06-02</created>
+      </Version>
+    </release>
+    <release>
+      <Version>
+        
+        <revision>4.17.4.Final</revision>
+        <created>2014-04-22</created>
       </Version>
     </release>
     <license rdf:resource="http://opensource.org/licenses/LGPL-2.1" />
@@ -116,10 +124,11 @@
     <implements>
       <Specification>
         <name>JTA 1.2</name>
-        <description></description>
+        
         <rdfs:seeAlso rdf:resource="https://java.net/projects/jta-spec" />
       </Specification>
     </implements>
     <foaf:logo rdf:resource="http://static.jboss.org/narayana/images/narayana_200x150.png" />
   </Project>
 </rdf:RDF>
+
